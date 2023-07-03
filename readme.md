@@ -6,11 +6,11 @@ Specifically, we present an effective depth-wise separable convolution block (DS
 In addition, to better utilize the features from different scales, we develop a simple yet effective discriminative multi-scale feature fusion (DMFF) module for achieving high-quality results. 
 Experimental results on the benchmarks show that our method is about $10\times$ smaller than the state-of-the-art deblurring methods, MPRNet, in terms of model parameters and FLOPs while achieving competitive performance. 
 ## Architecture
-![model architecture](assets\arh.png)
+![model architecture](assets/arch.png)
 ## Eval
 ```python eval.py```
 ## Performance
-![Performance](assets\performance.png)
+![Performance](assets/performance.png)
 ## Requirement
 see requirements
 ## Acknowledgment
