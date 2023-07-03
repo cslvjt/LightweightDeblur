@@ -1,0 +1,11 @@
+torch>=1.10
+fvcore
+collections
+random
+torchvision
+numpy
+Image
+argparse
+cv2
+numpy
+time
