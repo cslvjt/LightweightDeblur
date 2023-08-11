@@ -1,4 +1,6 @@
 # Lightweight Deep Deblurring Model with Discriminative Multi-scale Feature Fusion
+## News
+Paper has been accepted by ICIP2023
 ## Abstract
 Although existing learning-based deblurring methods achieve significant progress, these approaches tend to require lots of network parameters and huge computational costs, which limits their practical applications. 
 Instead of pursuing larger deep models for boosting deblurring performance, we propose a lightweight deep convolutional neural network with lower computational costs and comparable restoration performance, which is based on a multi-scale framework with an encoder and decoder network architecture.
