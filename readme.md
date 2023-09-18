@@ -1,5 +1,6 @@
 # Lightweight Deep Deblurring Model with Discriminative Multi-scale Feature Fusion
 ## News
+paper link:https://ieeexplore.ieee.org/document/10222723
 Paper has been accepted by ICIP2023
 ## Abstract
 Although existing learning-based deblurring methods achieve significant progress, these approaches tend to require lots of network parameters and huge computational costs, which limits their practical applications. 
@@ -15,5 +16,6 @@ Experimental results on the benchmarks show that our method is about $10\times$ 
 ![Performance](assets/performance.png)
 ## Requirement
 see requirements
+```pip install -r requirements.txt```
 ## Acknowledgment
 This code is based on the MIMO-UNet and BasicSR
