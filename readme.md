@@ -1,4 +1,6 @@
 # Lightweight Deep Deblurring Model with Discriminative Multi-scale Feature Fusion
+## model training
+We have released the training code and training log in [https://github.com/cslvjt/modelTrainningPipline](https://github.com/cslvjt/modelTrainningPipline/tree/main/ModelZoo/LWDNet). The released version is better than this paper.
 ## News
 paper link:https://ieeexplore.ieee.org/document/10222723
 
